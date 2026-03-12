@@ -139,7 +139,7 @@ safenest-ai
 ### 1️⃣ Clone the repository
 
 ```
-https://github.com/Aryan029-cs/SafeNest-AI.git
+https://github.com/Aryan029-cs/SafeNest-AI
 ```
 
 ---
