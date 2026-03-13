@@ -215,6 +215,8 @@ JB Institute of Technology, Dehradun
 This project was developed as part of a **hackathon innovation challenge** to explore AI-driven safety solutions.
 # PPT Submission
 Link : https://drive.google.com/file/d/1aht4RBVMPGsDudMoeHg93PnP3oBeNWfA/view?usp=drivesdk
-# Pitch Video + Demo Presentation
+# Pitch Video 
 https://drive.google.com/file/d/115KAYa7TzTGAv9vInwnXvS6gk5lI9
+# Demo Video
+https://safe-nest-qzzg14v0i-aryan029-cs-projects.vercel.app
 
