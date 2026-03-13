@@ -218,5 +218,5 @@ Link : https://drive.google.com/file/d/1aht4RBVMPGsDudMoeHg93PnP3oBeNWfA/view?us
 # Pitch Video 
 https://drive.google.com/file/d/115KAYa7TzTGAv9vInwnXvS6gk5lI9
 # Demo Video
-https://safe-nest-qzzg14v0i-aryan029-cs-projects.vercel.app
+https://safe-nest-ai-iota.vercel.app
 
